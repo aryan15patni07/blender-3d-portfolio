@@ -36,3 +36,15 @@ A 3D character model created using Blender.
 
 ## About
 I'm learning and developing my 3D modeling skills by creating and sharing projects.
+
+### 3. 3D Bird Model
+
+A stylized 3D bird character created using Blender, with multiple rendered views.
+
+- **Software:** Blender
+- **Category:** 3D Character Modeling
+- **Features:** Character modeling, materials, and environment rendering
+
+[View Bird Project](./bird/README.md)
+
+[Download Bird Model](./bird/bird.blend)
