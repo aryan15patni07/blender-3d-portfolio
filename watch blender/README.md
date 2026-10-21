@@ -1,26 +1,23 @@
-# My Blender 3D Models
+# 3D Watch Model
 
-Welcome to my 3D modeling portfolio! This repository contains 3D models created using Blender.
+My first semi-realistic 3D watch model, created using Blender.
 
-## Projects
+## Renders
 
-### 1. My First 3D Model
+![Watch Render 1](WATCH%20IMG%201.png)
+
+![Watch Render 2](WATCH%20IMG%202.png)
+
+![Watch Render 3](WATCH%20IMG%203.png)
+
+![Watch Render 4](WATCH%20IMG%204.png)
+
+## Project Details
 
 - **Software:** Blender
-- **Category:** 3D Modeling semi relaistic
-- **Description:** My first 3D modeling project, created to practice modeling, materials, and lighting.
+- **Category:** Semi-realistic 3D modeling
+- **Project File:** `watch.blend`
 
-## Files
+## Download
 
-- `.blend` - Original Blender project file.
-- `.png` - Rendered preview of the model.
-
-## Tools Used
-
-- Blender
-- VS Code
-- GitHub
-
-## Author
-
-Created by me as part of my 3D modeling journey.
+Open `watch.blend` in this folder to download the original Blender project.
