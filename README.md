@@ -18,6 +18,18 @@ A semi-realistic watch model created using Blender, featuring custom geometry, m
 
 **[Download Blender Model](./watch%20blender/watch.blend)**
 
+### 2. 3D Monster Model
+
+A 3D character model created using Blender.
+
+- **Software:** Blender
+- **Category:** 3D Character Modeling
+- **Features:** Custom 3D modeling and rendered views
+
+[View Monster Project](./monster/README.md)
+
+[Download Monster Model](./monster/monster.blend)
+
 ## Tools Used
 - Blender
 - GitHub
